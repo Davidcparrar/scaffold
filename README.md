@@ -2,3 +2,7 @@
 
 # scaffold
 project scaffold for python
+
+### Source
+
+[Duke specialization](https://github.com/noahgift/github-actions-pytest)
