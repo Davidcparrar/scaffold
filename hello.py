@@ -5,4 +5,4 @@ def add(x, y):
 a = 1
 b = 2
 result = add(a, b)
-print(f"This is the sum: {a}, {a}, {result}")
+print("This is the sum: {}, {}, {}".format(a,b,result))
